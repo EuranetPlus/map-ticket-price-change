@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik lielā mērā mainījās vilcienu biļešu cenas Eiropas Savienībā?",
+  "subtitle": "Lai gan vilcienu braucienu cenas Rumānijā 2025. gadā pieauga par 16 % un Vācijā vairāk nekā 6 %, tādās valstīs kā Horvātija un Lietuva tās samazinājās pat par 4 %.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Karte ir balstīta uz Saskaņoto patēriņa cenu indeksu (SPCI), kas mēra patēriņa cenu izmaiņas laika gaitā. Attēlotais rādītājs ir gada vidējais izmaiņu temps, salīdzinot viena kalendārā gada vidējo cenu indeksu ar iepriekšējā gada vidējo rādītāju. Dati atbilst ECOICOP klasifikācijai, bāzes gads 2025 = 100.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
