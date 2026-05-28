@@ -1,13 +1,11 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Di quanto sono cambiati i prezzi dei biglietti del treno nell'Unione Europea?",
+  "subtitle": "Mentre i prezzi dei viaggi in treno sono aumentati del 16% in Romania e di oltre il 6% in Germania nel 2025, paesi come la Croazia e la Lituania hanno visto le tariffe diminuire fino al 4%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "La mappa si basa sull'Indice Armonizzato dei Prezzi al Consumo (IPCA), che misura le variazioni dei prezzi al consumo nel tempo. L'indicatore mostrato è il tasso di variazione medio annuo, che confronta l'indice medio dei prezzi di un anno solare con la media dell'anno precedente. I dati seguono la classificazione ECOICOP, anno base 2025=100.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
   "tooltipExtraInfoLabel": "clicca qui"
 }
