@@ -1,13 +1,11 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvor meget har priserne på togbilletter ændret sig i Den Europæiske Union?",
+  "subtitle": "Mens priserne på togrejser steg med 16 % i Rumænien og over 6 % i Tyskland i 2025, oplevede lande som Kroatien og Litauen et fald i priserne på op til 4 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Kortet er baseret på det harmoniserede forbrugerprisindeks (HICP), som måler ændringer i forbrugerpriser over tid. Den viste indikator er den årlige gennemsnitlige ændringsrate, hvor det gennemsnitlige prisindeks for et kalenderår sammenlignes med gennemsnittet for det foregående år. Dataene følger ECOICOP-klassificeringen, basisår 2025=100.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
   "tooltipExtraInfoLabel": "Klik her"
 }
