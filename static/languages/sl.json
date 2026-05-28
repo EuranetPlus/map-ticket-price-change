@@ -1,13 +1,11 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko so se spremenile cene vozovnic za vlak v Evropski uniji?",
+  "subtitle": "Medtem ko so se cene potovanj z vlakom v Romuniji leta 2025 zvišale za 16 %, v Nemčiji pa za več kot 6 %, so se cene v državah, kot sta Hrvaška in Litva, znižale za do 4 %.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Zemljevid temelji na harmoniziranem indeksu cen življenjskih potrebščin (HICP), ki meri spremembe cen življenjskih potrebščin skozi čas. Prikazani kazalnik je povprečna letna stopnja spremembe, ki primerja povprečni indeks cen enega koledarskega leta s povprečjem prejšnjega leta. Podatki sledijo klasifikaciji ECOICOP, izhodiščno leto 2025=100.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
