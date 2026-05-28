@@ -1,13 +1,11 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui palju rongipiletite hinnad Euroopa Liidus muutusid?",
+  "subtitle": "Samal ajal kui rongipiletite hinnad tõusid 2025. aastal Rumeenias 16% ja Saksamaal üle 6%, langesid piletihinnad sellistes riikides nagu Horvaatia ja Leedu kuni 4%.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Kaart põhineb tarbijahinna harmoneeritud indeksil (HICP), mis mõõdab tarbijahindade muutusi ajas. Näidatud näitaja on aastane keskmine muutusmäär, võrreldes ühe kalendriaasta keskmist hinnaindeksit eelmise aasta keskmisega. Andmed järgivad ECOICOPi klassifikatsiooni, baasaasta 2025 = 100.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
