@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Mennyit változtak a vonatjegyek árai az Európai Unióban?",
+  "subtitle": "Míg a vonatjegyek árai Romániában 16%-kal, Németországban pedig több mint 6%-kal emelkedtek 2025-ben, olyan országokban, mint Horvátország és Litvánia, akár 4%-kal is csökkentek a viteldíjak.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "A térkép a harmonizált fogyasztói árindexen (HICP) alapul, amely a fogyasztói árak időbeli változását méri. A bemutatott mutató az éves átlagos változási ütem, amely egy naptári év átlagos árindexét hasonlítja össze az előző év átlagával. Az adatok az ECOICOP osztályozását követik, bázisév: 2025=100.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
