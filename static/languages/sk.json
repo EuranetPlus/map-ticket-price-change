@@ -1,13 +1,11 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "O koľko sa zmenili ceny cestovných lístkov na vlaky v Európskej únii?",
+  "subtitle": "Zatiaľ čo ceny cestovania vlakom v Rumunsku v roku 2025 prudko vzrástli o 16 % a v Nemecku o viac ako 6 %, v krajinách ako Chorvátsko a Litva ceny klesli až o 4 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Mapa je založená na harmonizovanom indexe spotrebiteľských cien (HICP), ktorý meria zmeny spotrebiteľských cien v čase. Zobrazený ukazovateľ je priemerná ročná miera zmeny, ktorá porovnáva priemerný cenový index jedného kalendárneho roka s priemerom predchádzajúceho roka. Údaje zodpovedajú klasifikácii ECOICOP, základný rok 2025 = 100.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
