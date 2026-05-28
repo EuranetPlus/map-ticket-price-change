@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât de mult s-au modificat prețurile biletelor de tren în Uniunea Europeană?",
+  "subtitle": "În timp ce prețurile călătoriilor cu trenul au crescut cu 16% în România și cu peste 6% în Germania în 2025, țări precum Croația și Lituania au înregistrat scăderi ale tarifelor cu până la 4%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Harta se bazează pe Indicele Armonizat al Prețurilor de Consum (IAPC), care măsoară modificările prețurilor de consum în timp. Indicatorul prezentat este rata medie anuală de modificare, comparând indicele mediu al prețurilor dintr-un an calendaristic cu media anului precedent. Datele respectă clasificarea ECOICOP, anul de bază 2025 = 100.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
