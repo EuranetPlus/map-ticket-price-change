@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "O ile zmieniły się ceny biletów kolejowych w Unii Europejskiej?",
+  "subtitle": "Podczas gdy ceny podróży koleją w Rumunii wzrosną o 16%, a w Niemczech o ponad 6% w 2025 r., w krajach takich jak Chorwacja i Litwa ceny biletów spadną nawet o 4%.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Mapa oparta jest na zharmonizowanym wskaźniku cen konsumpcyjnych (HICP), który mierzy zmiany cen konsumpcyjnych w czasie. Przedstawiony wskaźnik to średnioroczna stopa zmian, porównująca średni wskaźnik cen z jednego roku kalendarzowego ze średnią z roku poprzedniego. Dane są zgodne z klasyfikacją ECOICOP, rok bazowy 2025=100.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
