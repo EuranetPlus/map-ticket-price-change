@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel zijn de treinkaartjesprijzen in de Europese Unie veranderd?",
+  "subtitle": "Terwijl de prijzen voor treinreizen in Roemenië in 2025 met 16% en in Duitsland met meer dan 6% stegen, daalden de tarieven in landen als Kroatië en Litouwen met wel 4%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De kaart is gebaseerd op de Geharmoniseerde Consumentenprijsindex (HICP), die veranderingen in consumentenprijzen in de loop van de tijd meet. De weergegeven indicator is het gemiddelde jaarlijkse veranderingspercentage, waarbij de gemiddelde prijsindex van één kalenderjaar wordt vergeleken met het gemiddelde van het voorgaande jaar. De gegevens volgen de ECOICOP-classificatie, basisjaar 2025=100.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
