@@ -1,13 +1,11 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek pasikeitė traukinių bilietų kainos Europos Sąjungoje?",
+  "subtitle": "Nors 2025 m. traukinių bilietų kainos Rumunijoje išaugo 16 %, o Vokietijoje – daugiau nei 6 %, tokiose šalyse kaip Kroatija ir Lietuva jos sumažėjo iki 4 %.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Žemėlapis pagrįstas suderintu vartotojų kainų indeksu (HICP), kuris matuoja vartotojų kainų pokyčius laikui bėgant. Pateiktas rodiklis yra metinis vidutinis pokyčio tempas, lyginant vienų kalendorinių metų vidutinį kainų indeksą su ankstesnių metų vidurkiu. Duomenys pateikiami pagal ECOICOP klasifikaciją, baziniai metai – 2025 = 100.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
