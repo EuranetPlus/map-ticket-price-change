@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket förändrades tågbiljettpriserna i Europeiska unionen?",
+  "subtitle": "Medan priserna på tågresor steg med 16 % i Rumänien och över 6 % i Tyskland år 2025, såg länder som Kroatien och Litauen biljettpriserna sjunka med upp till 4 %.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Kartan är baserad på det harmoniserade konsumentprisindexet (HICP), som mäter förändringar i konsumentpriser över tid. Indikatorn som visas är den årliga genomsnittliga förändringstakten, där det genomsnittliga prisindexet för ett kalenderår jämförs med genomsnittet för föregående år. Uppgifterna följer ECOICOP-klassificeringen, basår 2025=100.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
